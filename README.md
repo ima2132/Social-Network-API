@@ -4,7 +4,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Demonstration](#demonstration)
 
