@@ -32,7 +32,7 @@ To use the application, follow these steps:
 2. Install the required npm package dependencies by running the command `npm install`. This will install the packages listed in the `package.json` file.
 3. Start the application by running the command `node server.js`.
 
-With this application, you can view, add, change, and remove users, thoughts, reactions, and friends. It also lets you see all the relationships in the social network.
+With this application, you can view, add, change, and remove users, thoughts, reactions, and friends. 
 
 ## License
 Please refer to the LICENSE listed in the repo.
