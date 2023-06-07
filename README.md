@@ -13,6 +13,7 @@ The main objective of this project is to construct a robust and dynamic API for 
 
 The challenge here is to understand how to build and structure the API first, efficiently handling functionalities such as enabling users to share their thoughts, react to friends' thoughts, and manage their friend list.
 
+The user data, thoughts, and reactions in this project draw inspiration from the beloved characters of the Harry Potter series.
 ## Installation 
 To install the program, you will need to have `VS Code` and `Node.js` installed. First, clone the repository. You will then need to install dependencies in order to use this application.
 
