@@ -1,0 +1,32 @@
+[
+    {
+        "username": "harry_potter",
+        "email": "potter@hogwarts.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "username": "ron_weasley",
+        "email": "ilovescabbers@hogwarts.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "username": "hermoine_granger",
+        "email": "bookworm@hogwarts.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "username": "luna_lovegood",
+        "email": "nargles@hogwarts.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "username": "draco_malfoy",
+        "email": "pureblood@hogwarts.com",
+        "thoughts": [],
+        "friends": []
+    }
+]

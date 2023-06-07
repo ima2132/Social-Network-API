@@ -1,32 +1,22 @@
 [
     {
-        "username": "harry_potter",
-        "email": "potter@hogwarts.com",
-        "thoughts": [],
-        "friends": []
+        "reactionBody": "Nice thought!",
+        "username": "harry_potter"
     },
     {
-        "username": "ron_weasley",
-        "email": "ilovescabbers@hogwarts.com",
-        "thoughts": [],
-        "friends": []
+        "reactionBody": "I agree!",
+        "username": "ron_weasley"
     },
     {
-        "username": "hermoine_granger",
-        "email": "bookworm@hogwarts.com",
-        "thoughts": [],
-        "friends": []
+        "reactionBody": "Interesting...",
+        "username": "hermoine_granger"
     },
     {
-        "username": "luna_lovegood",
-        "email": "nargles@hogwarts.com",
-        "thoughts": [],
-        "friends": []
+        "reactionBody": "Great point!",
+        "username": "luna_lovegood"
     },
     {
-        "username": "draco_malfoy",
-        "email": "pureblood@hogwarts.com",
-        "thoughts": [],
-        "friends": []
+        "reactionBody": "I disagree.",
+        "username": "draco_malfoy"
     }
 ]

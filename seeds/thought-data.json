@@ -1,0 +1,27 @@
+[
+    {
+        "thoughtText": "Here's a cool thought...",
+        "username": "harry_potter",
+        "reactions": []
+    },
+    {
+        "thoughtText": "Just another random thought...",
+        "username": "ron_weasley",
+        "reactions": []
+    },
+    {
+        "thoughtText": "Just another random thought...",
+        "username": "hermoine_granger",
+        "reactions": []
+    },
+    {
+        "thoughtText": "Just another random thought...",
+        "username": "luna_lovegood",
+        "reactions": []
+    },
+    {
+        "thoughtText": "Just another random thought...",
+        "username": "draco_malfoy",
+        "reactions": []
+    }
+]
