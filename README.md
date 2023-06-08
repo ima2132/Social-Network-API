@@ -38,4 +38,6 @@ With this application, you can view, add, change, and remove users, thoughts, re
 Please refer to the LICENSE listed in the repo.
 
 ## Demonstration 
-Click on the link below to watch a video demonstration of how to use the application:
+Click on the link below to watch a video demonstration of how to use the application: 
+
+(If a delete request says "User not found," it means that I had tested it beforehand.)
